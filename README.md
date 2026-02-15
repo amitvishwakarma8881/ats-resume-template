@@ -13,6 +13,5 @@ Clean and ATS-optimized LaTeX resume template for freshers and developers.
 2. Open in Overleaf or LaTeX editor
 3. Replace placeholder content
 
-## Author
-Amit Vishwakarma
+
 
